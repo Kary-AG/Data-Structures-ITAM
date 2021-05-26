@@ -1,6 +1,6 @@
 public class Cuadrado{
 
-    double lado;
+    private double lado;
 
     public Cuadrado(){
     }
